@@ -1,0 +1,99 @@
+/* Desarrollo Web 1 */
+/* Nombre Práctica: Hola Mundo */
+/* Autor/a: Antonio Vazquez Saucedo*/
+/* Fecha de elaboración: 07/02/2023 */
+
+*{
+    box-sizing: border-box;
+    margin: 0;
+    padding: 0;
+}
+
+.mx{
+    color: blue;
+    font-size: 200px;
+    margin: 200px;
+    padding: 0 0 0 950px;
+    position: absolute;
+    font-family: 'Pacifico', cursive;
+    z-index: 1;
+}
+.us{
+    color: lawngreen;
+    font-size: 130px;
+    margin: 200px;
+    padding: 0 0 0 400px;
+    position: absolute;
+    font-family: 'Alex Brush', cursive;
+}
+.jp{
+    font-size: 60px;
+    color: crimson;
+    margin: 200px;
+    position: absolute;
+    padding: 0 0 0 900px;
+}
+.it{
+    font-size: 100px;
+    color: aquamarine;
+    margin: 100px; 
+    position: absolute;
+    padding: 0 0 0 1100px;
+    font-family: 'Hanalei Fill', cursive;
+}
+.hw{
+    font-size: 190px;
+    color: rgb(241, 149, 11);
+    margin: 220px; 
+    position: absolute;
+    padding: 0 0 0 80px;
+    font-family: 'Bungee Shade', cursive;
+}
+.ru{
+    font-size: 80px;
+    color: rgb(0, 28, 65);
+    margin: 120px; 
+    position: absolute;
+    padding: 0 0 0 520px;
+    font-family: 'Montez', cursive;
+}
+.ko{
+    font-size: 30px;
+    color: rgb(255, 0, 128);
+    margin: 76px; 
+    position: absolute;
+    padding: 0 0 0 1050px;
+    font-family: 'Codystar', cursive;
+}
+.po{
+    font-size: 90px;
+    color: rgb(57, 0, 90);
+    margin: 310px; 
+    position: absolute;
+    padding: 0 0 0 10px;
+    font-family: 'Press Start 2P', cursive;
+}
+.hi{
+    font-size: 78px;
+    color: rgb(19, 113, 136);
+    margin: 74px; 
+    position: absolute;
+    padding: 0 0 0 700px;
+    font-family:'Vast Shadow', cursive;
+}
+.he{
+    font-size: 80px;
+    color: rgb(11, 241, 61);
+    margin: 550px; 
+    position: absolute;
+    padding: 0 0 0 300px;
+    font-family: 'Eater', cursive;
+}
+.sw{
+    font-size: 40px;
+    color: rgb(107, 4, 4);
+    margin: 470px; 
+    position: absolute;
+    padding: 20px 0 0 650px;
+    font-family: 'Faster One', cursive;
+}
